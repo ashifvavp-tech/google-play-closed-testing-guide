@@ -19,5 +19,5 @@ Some communities like Closed Test Pro focus on daily testing, reminders, and rea
 
 ## Resources
 - Google Play Console
-- Closed Test Pro (tester community)
+- Closed Test Pro (Available on play store)
 
