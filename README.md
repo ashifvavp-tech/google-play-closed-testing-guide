@@ -15,7 +15,7 @@ Closed testing works best when:
 - Participation is tracked
 - Developers help each other
 
-Some communities like Closed Test Pro focus on daily testing, reminders, and real-time stats instead of one-time installs.
+ Apps like Closed Test Pro focus on daily testing, reminders, and real-time stats instead of one-time installs.
 
 ## Resources
 - Google Play Console
